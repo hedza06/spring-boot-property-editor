@@ -14,7 +14,7 @@ public void initBinder(WebDataBinder binder) {
 ```
 After you put method above into your controller the automatic invocation will be called.
 
-**API:** `http://localhost:8080/api/user/{data}` 
+**API:** `http://localhost:8080/api/user/{data}`  
 **Method:** `GET`  
 **Response http status:** `(200 | 400)`
 
